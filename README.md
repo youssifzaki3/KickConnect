@@ -2,6 +2,7 @@
 
 ## KickConnect Prototype
 
+note. if simulation opens but application doesnt run (pre launch flight fails, run build again and app will launch)
 KickConnect is a **SwiftUI mobile app prototype** designed to connect football players by allowing users to **host and join local football matches anytime, anywhere**.  
 
 This prototype demonstrates the progress made in developing the **core structure and main screens** of the application.
