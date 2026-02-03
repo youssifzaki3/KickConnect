@@ -2,6 +2,7 @@
 
 ## KickConnect Prototype
 
+note- when i build and run the code and the simulation iphone appears, sometimes there are issues with pre flight tests, if that occurs just press the build and run button once more time and app (KickConnect will launch)
 note. if simulation opens but application doesnt run (pre launch flight fails, run build again and app will launch)
 KickConnect is a **SwiftUI mobile app prototype** designed to connect football players by allowing users to **host and join local football matches anytime, anywhere**.  
 
